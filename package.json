@@ -1,0 +1,17 @@
+{
+  "name": "tallernode",
+  "version": "1.0.0",
+  "description": "Taller de Node",
+  "main": "Tarea1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "Ricardo",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
